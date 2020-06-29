@@ -5,6 +5,7 @@ import Card from './component/card.jsx';
 
 ReactDOM.render(
 	<div>
+	<h1>My Contacts</h1>
   <Card
   	name='Beyonce'
   	src="https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg" 
